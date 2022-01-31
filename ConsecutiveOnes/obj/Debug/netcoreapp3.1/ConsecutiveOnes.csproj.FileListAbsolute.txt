@@ -1,0 +1,17 @@
+C:\Users\wszym\Downloads\Nowy folder (2)\kod+sprawozdanie_WiktorSzymkowski\ConsecutiveOnes\ConsecutiveOnes\bin\Debug\netcoreapp3.1\ConsecutiveOnes.exe
+C:\Users\wszym\Downloads\Nowy folder (2)\kod+sprawozdanie_WiktorSzymkowski\ConsecutiveOnes\ConsecutiveOnes\bin\Debug\netcoreapp3.1\ConsecutiveOnes.deps.json
+C:\Users\wszym\Downloads\Nowy folder (2)\kod+sprawozdanie_WiktorSzymkowski\ConsecutiveOnes\ConsecutiveOnes\bin\Debug\netcoreapp3.1\ConsecutiveOnes.runtimeconfig.json
+C:\Users\wszym\Downloads\Nowy folder (2)\kod+sprawozdanie_WiktorSzymkowski\ConsecutiveOnes\ConsecutiveOnes\bin\Debug\netcoreapp3.1\ConsecutiveOnes.runtimeconfig.dev.json
+C:\Users\wszym\Downloads\Nowy folder (2)\kod+sprawozdanie_WiktorSzymkowski\ConsecutiveOnes\ConsecutiveOnes\bin\Debug\netcoreapp3.1\ConsecutiveOnes.dll
+C:\Users\wszym\Downloads\Nowy folder (2)\kod+sprawozdanie_WiktorSzymkowski\ConsecutiveOnes\ConsecutiveOnes\bin\Debug\netcoreapp3.1\ConsecutiveOnes.pdb
+C:\Users\wszym\Downloads\Nowy folder (2)\kod+sprawozdanie_WiktorSzymkowski\ConsecutiveOnes\ConsecutiveOnes\obj\Debug\netcoreapp3.1\ConsecutiveOnes.csprojAssemblyReference.cache
+C:\Users\wszym\Downloads\Nowy folder (2)\kod+sprawozdanie_WiktorSzymkowski\ConsecutiveOnes\ConsecutiveOnes\obj\Debug\netcoreapp3.1\ConsecutiveOnes.GeneratorForm.resources
+C:\Users\wszym\Downloads\Nowy folder (2)\kod+sprawozdanie_WiktorSzymkowski\ConsecutiveOnes\ConsecutiveOnes\obj\Debug\netcoreapp3.1\ConsecutiveOnes.MainWindow.resources
+C:\Users\wszym\Downloads\Nowy folder (2)\kod+sprawozdanie_WiktorSzymkowski\ConsecutiveOnes\ConsecutiveOnes\obj\Debug\netcoreapp3.1\ConsecutiveOnes.TabuProcedureForm.resources
+C:\Users\wszym\Downloads\Nowy folder (2)\kod+sprawozdanie_WiktorSzymkowski\ConsecutiveOnes\ConsecutiveOnes\obj\Debug\netcoreapp3.1\ConsecutiveOnes.csproj.GenerateResource.cache
+C:\Users\wszym\Downloads\Nowy folder (2)\kod+sprawozdanie_WiktorSzymkowski\ConsecutiveOnes\ConsecutiveOnes\obj\Debug\netcoreapp3.1\ConsecutiveOnes.AssemblyInfoInputs.cache
+C:\Users\wszym\Downloads\Nowy folder (2)\kod+sprawozdanie_WiktorSzymkowski\ConsecutiveOnes\ConsecutiveOnes\obj\Debug\netcoreapp3.1\ConsecutiveOnes.AssemblyInfo.cs
+C:\Users\wszym\Downloads\Nowy folder (2)\kod+sprawozdanie_WiktorSzymkowski\ConsecutiveOnes\ConsecutiveOnes\obj\Debug\netcoreapp3.1\ConsecutiveOnes.csproj.CoreCompileInputs.cache
+C:\Users\wszym\Downloads\Nowy folder (2)\kod+sprawozdanie_WiktorSzymkowski\ConsecutiveOnes\ConsecutiveOnes\obj\Debug\netcoreapp3.1\ConsecutiveOnes.dll
+C:\Users\wszym\Downloads\Nowy folder (2)\kod+sprawozdanie_WiktorSzymkowski\ConsecutiveOnes\ConsecutiveOnes\obj\Debug\netcoreapp3.1\ConsecutiveOnes.pdb
+C:\Users\wszym\Downloads\Nowy folder (2)\kod+sprawozdanie_WiktorSzymkowski\ConsecutiveOnes\ConsecutiveOnes\obj\Debug\netcoreapp3.1\ConsecutiveOnes.genruntimeconfig.cache
